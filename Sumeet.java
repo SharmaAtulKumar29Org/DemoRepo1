@@ -1,4 +1,0 @@
-Class Sumeet{
-
-//empty class
-}
