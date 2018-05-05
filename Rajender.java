@@ -1,5 +1,30 @@
 class Rajender
 {
-//this is the class of Papa
+	
+	int r;
+	String str;
+	
+	public calling(int i)
+	{
+		String.output.Println ("Hi"+ i + "have been modified at dhaniTest Branch")
+		
+		
+	}
+	
+	
+	public Rajender()
+	{
+		String.output.Println ("Hi, I have been modified at dhaniTest Branch")
+		
+	}
+	
+
+Public static void main (String[] args)
+
+{
+	calling (18082018);
+	
 }
-//this was updated for the fix in the AtulBranch
+
+	
+}
